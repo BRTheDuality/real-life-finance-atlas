@@ -81,8 +81,6 @@ real-life-finance-atlas
 ├── sources
 │   └── fontes-utilizadas.md
 │
-├── contributors
-│   └── BRTheDuality.md
 ```
 
 Cada pasta representa uma etapa do processo de aprendizado e organização do conhecimento financeiro.
