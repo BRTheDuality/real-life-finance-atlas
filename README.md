@@ -105,7 +105,7 @@ Pessoas que contribuíram para expandir este atlas financeiro.
 
 | Nome | GitHub | Contribuição |
 |-----|------|------|
-| BRTheDuality | https://github.com/BRTheDuality | Criador do projeto |
+| BRTheDuality | https://github.com/joaornvs | Criador do projeto |
 
 ---
 
