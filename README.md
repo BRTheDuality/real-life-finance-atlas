@@ -58,32 +58,32 @@ Este projeto foi construído utilizando as seguintes ferramentas:
 
 ---
 
-# 📂 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
-
+```
 real-life-finance-atlas
 │
 ├── prompts
-│ └── prompts-utilizados.md
+│   └── prompts-utilizados.md
 │
 ├── summaries
-│ └── resumos-financeiros.md
+│   └── resumos-financeiros.md
 │
 ├── glossary
-│ └── glossario-financeiro.md
+│   └── glossario-financeiro.md
 │
 ├── life-scenarios
-│ └── cenarios-financeiros.md
+│   └── cenarios-financeiros.md
 │
 ├── notebooklm-outputs
-│ └── respostas.md
+│   └── respostas.md
 │
 ├── sources
-│ └── fontes-utilizadas.md
+│   └── fontes-utilizadas.md
 │
 ├── contributors
-│ └── BRTheDuality.md
-
+│   └── BRTheDuality.md
+```
 
 Cada pasta representa uma etapa do processo de aprendizado e organização do conhecimento financeiro.
 
